@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Enemy
+  - EnermyHitbox
+  - FireHitbox
+  - Checkpoint
+  - OneWayPlatform
+  - pos1
+  - pos2
+  - Point
+  - FireBall
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Wall
+  - Player
+  - Enemy
+  - ArrowTrap
+  - Point
+  - Background
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3632522613
+    locked: 0
+  - name: Foreground
+    uniqueID: 177797377
+    locked: 0
+  - name: Player
+    uniqueID: 1384670753
+    locked: 0
+  - name: Ground
+    uniqueID: 2753086611
+    locked: 0
+  - name: Fireball
+    uniqueID: 3816698381
+    locked: 0
+  - name: ArrowTrap
+    uniqueID: 599413393
+    locked: 0
